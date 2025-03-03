@@ -1,0 +1,210 @@
+{
+  "diseases": [
+    {
+      "name": "Influenza (Flu)",
+      "medications": [
+        "Oseltamivir (Tamiflu)",
+        "Zanamivir (Relenza)",
+        "Peramivir (Rapivab)",
+        "Baloxavir marboxil (Xofluza)"
+      ]
+    },
+    {
+      "name": "Tuberculosis (TB)",
+      "medications": [
+        "Isoniazid",
+        "Rifampin",
+        "Ethambutol",
+        "Pyrazinamide",
+        "Streptomycin"
+      ]
+    },
+    {
+      "name": "HIV/AIDS",
+      "medications": [
+        "Tenofovir",
+        "Emtricitabine",
+        "Efavirenz",
+        "Dolutegravir",
+        "Lamivudine"
+      ]
+    },
+    {
+      "name": "Malaria",
+      "medications": [
+        "Chloroquine",
+        "Artemether-lumefantrine",
+        "Atovaquone-proguanil",
+        "Primaquine",
+        "Quinine"
+      ]
+    },
+    {
+      "name": "COVID-19",
+      "medications": [
+        "Paxlovid",
+        "Remdesivir",
+        "Molnupiravir",
+        "Dexamethasone",
+        "Baricitinib"
+      ]
+    },
+    {
+      "name": "Hepatitis",
+      "medications": [
+        "Entecavir",
+        "Tenofovir",
+        "Sofosbuvir",
+        "Ledipasvir",
+        "Ribavirin"
+      ]
+    },
+    {
+      "name": "Cholera",
+      "medications": [
+        "Doxycycline",
+        "Azithromycin",
+        "Ciprofloxacin",
+        "Tetracycline",
+        "Oral Rehydration Salts"
+      ]
+    },
+    {
+      "name": "Ebola Virus Disease",
+      "medications": [
+        "Inmazeb",
+        "Ebanga",
+        "Zmapp",
+        "Remdesivir",
+        "Supportive Care Medications"
+      ]
+    },
+    {
+      "name": "Dengue Fever",
+      "medications": [
+        "Acetaminophen",
+        "Oral Rehydration Solutions",
+        "NSAIDs (after dengue is ruled out)",
+        "Supportive Care Medications"
+      ]
+    },
+    {
+      "name": "Coronary Artery Disease (CAD)",
+      "medications": [
+        "Aspirin",
+        "Statins",
+        "Beta blockers",
+        "ACE inhibitors",
+        "Nitroglycerin"
+      ]
+    },
+    {
+      "name": "Hypertension",
+      "medications": [
+        "Amlodipine",
+        "Lisinopril",
+        "Hydrochlorothiazide",
+        "Metoprolol",
+        "Losartan"
+      ]
+    },
+    {
+      "name": "Stroke",
+      "medications": [
+        "Alteplase (tPA)",
+        "Aspirin",
+        "Clopidogrel",
+        "Warfarin",
+        "Statins"
+      ]
+    },
+    {
+      "name": "Arrhythmias",
+      "medications": [
+        "Amiodarone",
+        "Beta blockers",
+        "Calcium channel blockers",
+        "Digoxin",
+        "Warfarin"
+      ]
+    },
+    {
+      "name": "Atherosclerosis",
+      "medications": [
+        "Statins",
+        "Aspirin",
+        "ACE inhibitors",
+        "Beta blockers",
+        "Calcium channel blockers"
+      ]
+    },
+    {
+      "name": "Lung Cancer",
+      "medications": [
+        "Cisplatin",
+        "Carboplatin",
+        "Erlotinib",
+        "Pembrolizumab",
+        "Dexamethasone"
+      ]
+    },
+    {
+      "name": "Prostate Cancer",
+      "medications": [
+        "Leuprolide",
+        "Bicalutamide",
+        "Docetaxel"
+      ]
+    },
+    {
+      "name": "Colorectal Cancer",
+      "medications": [
+        "Fluorouracil",
+        "Oxaliplatin",
+        "Bevacizumab"
+      ]
+    },
+    {
+      "name": "Brain Cancer",
+      "medications": [
+        "Temozolomide",
+        "Dexamethasone"
+      ]
+    },
+    {
+      "name": "Asthma",
+      "medications": [
+        "Albuterol",
+        "Fluticasone",
+        "Salmeterol",
+        "Montelukast",
+        "Omalizumab"
+      ]
+    },
+    {
+      "name": "Leukemia",
+      "medications": [
+        "Vincristine",
+        "Daunorubicin",
+        "Imatinib"
+      ]
+    },
+    {
+      "name": "COPD",
+      "medications": [
+        "Albuterol",
+        "Tiotropium",
+        "Theophylline"
+      ]
+    },
+    {
+      "name": "Interstitial Lung Disease",
+      "medications": [
+        "Prednisone",
+        "Mycophenolate",
+        "Pirfenidone",
+        "Nintedanib"
+      ]
+    }
+  ]
+}
